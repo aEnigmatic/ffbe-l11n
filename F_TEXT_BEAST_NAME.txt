@@ -1,3 +1,4 @@
 MST_BEAST_NAME_12^Leviathan^
+MST_BEAST_NAME_13^Alexander^
 MST_BEAST_NAME_14^Phoenix^
 MST_BEAST_NAME_16^Fenrir^
